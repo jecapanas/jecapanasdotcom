@@ -1,5 +1,18 @@
+/* fonts */
+/* Roboto from Google Fonts */
+.roboto-font {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* Website Styling */
 body{
     margin: 50px;
+    font-family: "Roboto", sans-serif;
 }
 .icon {
     width: 50px;
